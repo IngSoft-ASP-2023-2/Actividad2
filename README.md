@@ -39,11 +39,10 @@ curl --location url/create-user' \\
 
 Esta empresa reporta que, al empezar a utilizar dicha aplicación en parte de su flujo productivo, muchas de las request fallan o demoran demasiado.
 
-Código fuente: <https://github.com/IngSoft-ASP-2023-2/Actividad2>
 
 **Consigna:**
 
-Esta entrega no requiere código fuente como entregable por lo cual se deberá generar un archivo pdf con capturas y respuestas de cada punto el cual debe ser entregado por las aulas.
+Esta entrega no requiere código fuente como entregable por lo cual <mark>se deberá generar un archivo pdf con capturas y respuestas de cada punto el cual debe ser entregado por las aulas</mark>.
 
 **Parte 1: Despliegue y Monitoreo de la Aplicación**
 
