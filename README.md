@@ -1,11 +1,4 @@
 # Actividad2
-## Template para Actividad 2
-
-```
-docker build -t pw-generator-app .
-docker run -p 3000:3000 pw-generator-app
-
-```
 
 ## Sobre la actividad
 
@@ -54,3 +47,11 @@ Esta entrega no requiere código fuente como entregable por lo cual <mark>se deb
 **Parte 2: Optimización de Tiempos de Respuesta**
 
 Su cliente se queja de los tiempos de respuesta que afectan la creación de usuarios. Aunque se ha intentado mejorar el algoritmo de hash, no es posible reducir los tiempos sin comprometer la seguridad, sin escalar verticalmente la aplicación. Proponga una nueva arquitectura que garantice tiempos de respuesta óptimos sin sacrificar la seguridad.
+
+## Para generar la imagen y probarla
+
+```
+docker build -t pw-generator-app .
+docker run -p 3000:3000 pw-generator-app
+
+```
