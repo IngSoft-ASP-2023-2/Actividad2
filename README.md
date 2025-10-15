@@ -35,7 +35,7 @@ Esta empresa reporta que, al empezar a utilizar dicha aplicación en parte de su
 
 **Consigna:**
 
-Esta entrega no requiere código fuente como entregable por lo cual <mark>se deberá generar un archivo pdf con capturas y respuestas de cada punto el cual debe ser entregado por las aulas</mark>.
+Esta entrega no requiere código fuente como entregable por lo cual <mark>se deberá generar uno o mas archivos pdf con capturas y respuestas de cada punto, los cuales deben ser agregados en una carpeta "capturas" en el respositorio</mark>.
 
 **Parte 1: Despliegue y Monitoreo de la Aplicación**
 
