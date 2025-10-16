@@ -1,6 +1,6 @@
 # Actividad2
 
-## Sobre la actividad
+## Sobre la actividad - modalidad GitHub Classroom
 
 **Restricciones:**
 
@@ -35,13 +35,13 @@ Esta empresa reporta que, al empezar a utilizar dicha aplicación en parte de su
 
 **Consigna:**
 
-Esta entrega no requiere código fuente como entregable por lo cual <mark>se deberá generar uno o mas archivos pdf con capturas y respuestas de cada punto, los cuales deben ser agregados en una carpeta "capturas" en el respositorio</mark>.
+Esta entrega no requiere modificar el código fuente pero se <mark> deberá generar uno o mas archivos pdf con capturas de las configuraciones de AWS, los scripts de K6, los resultados de las pruebas y respuestas de cada punto solicitudo, e incluirlos en una carpeta "entrega" en el respositorio</mark>. Tambien si realiza modificaciones a otros archivos incluyalos en el commit y el push del repositorio.
 
 **Parte 1: Despliegue y Monitoreo de la Aplicación**
 
 - Despliegue la aplicación dockerizada en Elastic Beanstalk. Adjunte capturas del dashboard de Elastic Beanstalk y los resultados de una solicitud.
 - Configure una conexión con New Relic para monitorizar la aplicación y vuelva a desplegarla. Adjunte capturas de la configuración de la conexión y las métricas iniciales obtenidas.
-- Seleccione un tipo de prueba de rendimiento adecuado, justificando su elección, y genere un script de K6 para correr sobre la API desde su navegador. La prueba debe validar que el tiempo de respuesta P(95) sea inferior a 2500 ms y que fallen menos del 1% de las solicitudes. Adjunte el script, capturas de los resultados y registros en New Relic.
+- <mark> Seleccione un tipo de prueba de rendimiento adecuado, justificando su elección </mark>, y genere un script de K6 para correr sobre la API desde su navegador. La prueba debe validar que el tiempo de respuesta P(95) sea inferior a 2500 ms y que fallen menos del 1% de las solicitudes. Adjunte el script, capturas de los resultados y registros en New Relic.
 - Obtenga logs de aplicación utilizando CloudWatch y sugiera mejoras si es necesario. Puede complementarlo con capturas de código ajustadas.
 
 **Parte 2: Optimización de Tiempos de Respuesta**
